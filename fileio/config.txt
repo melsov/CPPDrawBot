@@ -1,0 +1,5 @@
+machine_width:500.0
+spool_radius:30.0
+steps_per_rev:200
+start-pos-x:200.0
+start-pos-y:150.0
